@@ -88,6 +88,6 @@ If you encounter issues during signup:
 1. Check the server logs for detailed error messages
 2. Verify your database schema is properly set up
 3. Make sure all required environment variables are set
-=======
-# alumniapp
+
+
 
